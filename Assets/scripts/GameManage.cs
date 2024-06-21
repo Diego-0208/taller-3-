@@ -9,6 +9,8 @@ public class GameManager : MonoBehaviour
 
     public HUD hud;
 
+    public GameObject canvasGameover;
+
     public int PuntosTotales { get; private set; }
 
     private int vidas = 3;
@@ -31,14 +33,13 @@ public class GameManager : MonoBehaviour
         hud.ActualizarPuntos(PuntosTotales);
     }
 
-    public void PerderVida()
+    public void PerderVida(int daño)
     {
-        vidas -= 1;
+        vidas -= daño;
 
         if (vidas == 0)
         {
-            // Reiniciamos el nivel.
-            SceneManager.LoadScene(0);
+            canvasGameover.SetActive(true);   
         }
 
         hud.DesactivarVida(vidas);

@@ -1,0 +1,1427 @@
+fileFormatVersion: 2
+guid: e3a4318cceb55d240a1766730b6c0e61
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: IceSlime_Frame_0
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 60
+      width: 16
+      height: 12
+    spriteID: 9f5cebc4c02b82f4391eb38e96bffc37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 60}
+  - name: IceSlime_Frame_1
+    originalName: 
+    pivot: {x: 0.5625, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 80
+      width: 16
+      height: 11
+    spriteID: e0de3935cd03e6443b118f6f9aaa75eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 80}
+  - name: IceSlime_Frame_2
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 60
+      width: 16
+      height: 12
+    spriteID: 18c901893285feb4b9726256d52b5607
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 60}
+  - name: IceSlime_Frame_3
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 100
+      width: 14
+      height: 13
+    spriteID: 8021127d9d8d22243bed6636926ecc04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 100}
+  - name: IceSlime_Frame_4
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 121
+      width: 12
+      height: 14
+    spriteID: e75d2ab7cb27d7542a42016a9efdaa2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 121}
+  - name: IceSlime_Frame_5
+    originalName: 
+    pivot: {x: 0.6, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 143
+      width: 10
+      height: 16
+    spriteID: a411ffbfe57a0fd49948278f94190919
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 143}
+  - name: IceSlime_Frame_6
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.9411765}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 167
+      width: 6
+      height: 17
+    spriteID: 372feffc07205ae4087607cb2853358f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 167}
+  - name: IceSlime_Frame_7
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.9411765}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 167
+      width: 6
+      height: 17
+    spriteID: fef3b2ae6ebc06948b0694e58643e6d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 167}
+  - name: IceSlime_Frame_8
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.9411765}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 120
+      width: 14
+      height: 17
+    spriteID: bf0188b9e9ea4aa4baf5d76cfc50f85a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 120}
+  - name: IceSlime_Frame_9
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.0666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 4
+      width: 18
+      height: 15
+    spriteID: 69fe8663cbfee384d89e47f4505edeee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 4}
+  - name: IceSlime_Frame_10
+    originalName: 
+    pivot: {x: 0.54545456, y: -1.7777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 4
+      width: 22
+      height: 9
+    spriteID: 3c0db7cb46d081f4681c6084844cafc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 4}
+  - name: IceSlime_Frame_11
+    originalName: 
+    pivot: {x: 0.5185185, y: -4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 100
+      width: 27
+      height: 4
+    spriteID: f69d0f93e71fb0744b737ab84c5b6477
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 100}
+  - name: IceSlime_Frame_12
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 60
+      width: 16
+      height: 12
+    spriteID: 884926aff1aac4a4d822ab7864435296
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 60}
+  - name: IceSlime_Frame_13
+    originalName: 
+    pivot: {x: 0.5625, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 80
+      width: 16
+      height: 11
+    spriteID: 5e3c452a8939b1a4cbc2d7c67ce8794c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 80}
+  - name: IceSlime_Frame_14
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 4
+      width: 14
+      height: 15
+    spriteID: 0c08d92545c7cc447a865410eaaadd68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 208, y: 4}
+  - name: IceSlime_Frame_15
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 80
+      width: 18
+      height: 10
+    spriteID: 1aed2a2ad8c702d478ab63bb4b58b63e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 80}
+  - name: IceSlime_Frame_16
+    originalName: 
+    pivot: {x: 0.54545456, y: -1.7777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 43
+      width: 22
+      height: 9
+    spriteID: f090c51806a2cf449a3b54591ef1119d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 43}
+  - name: IceSlime_Frame_17
+    originalName: 
+    pivot: {x: 0.51724136, y: -2.2857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 28
+      width: 29
+      height: 7
+    spriteID: dd537fe4e20846d469db47c9a95251e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 28}
+  - name: IceSlime_Frame_18
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 80
+      width: 18
+      height: 10
+    spriteID: 5b94b43a599d28b43b9361ef58cce5c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 80}
+  - name: IceSlime_Frame_19
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 100
+      width: 14
+      height: 12
+    spriteID: 553b649b627c2794c8f5e43f1b7d83b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 100}
+  - name: IceSlime_Frame_20
+    originalName: 
+    pivot: {x: 0.5833334, y: -0.84210527}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 176
+      width: 12
+      height: 19
+    spriteID: a3d1d1a6a008582499df0d2ca1c3d3c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 176}
+  - name: IceSlime_Frame_21
+    originalName: 
+    pivot: {x: 0.6, y: -0.826087}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 145
+      width: 10
+      height: 23
+    spriteID: 71d4eac0ab25bcd47b31e983bb51df11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 145}
+  - name: IceSlime_Frame_22
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.35}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 64
+      width: 12
+      height: 20
+    spriteID: 154a7895274f2844e9c29f8bfa9314a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 64}
+  - name: IceSlime_Frame_23
+    originalName: 
+    pivot: {x: 0.5714286, y: -2.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 203
+      width: 14
+      height: 16
+    spriteID: 2dc5e51f56f1b2a43979ca16da659a38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 203}
+  - name: IceSlime_Frame_24
+    originalName: 
+    pivot: {x: 0.5625, y: -3.4166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 60
+      width: 16
+      height: 12
+    spriteID: a73f2fffe45ddad4997406b862f5218e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 60}
+  - name: IceSlime_Frame_25
+    originalName: 
+    pivot: {x: 0.5625, y: -2.7142859}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 227
+      width: 16
+      height: 14
+    spriteID: 2ebac0ade3dbcd94aa97e85945aac97c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 227}
+  - name: IceSlime_Frame_26
+    originalName: 
+    pivot: {x: 0.5714286, y: -2.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 4
+      width: 14
+      height: 16
+    spriteID: 2801f053ed21a5f4aaee75918ee7ab5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 4}
+  - name: IceSlime_Frame_27
+    originalName: 
+    pivot: {x: 0.5833334, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 92
+      width: 12
+      height: 20
+    spriteID: 955ceb4ce5b2e6d4ab46ebeb9edf3100
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 92}
+  - name: IceSlime_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: -0.8571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 101
+      y: 4
+      width: 26
+      height: 14
+    spriteID: a21fb473ce7e7314a8a284d60659135d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 101, y: 4}
+  - name: IceSlime_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 4
+      width: 26
+      height: 16
+    spriteID: 2f5225333e7ca5d49abe79e7cec09fce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 4}
+  - name: IceSlime_Frame_30
+    originalName: 
+    pivot: {x: 0.48, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 4
+      width: 25
+      height: 16
+    spriteID: 026e8187c515b4143bf21be867e7154c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 4}
+  - name: IceSlime_Frame_31
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 60
+      width: 16
+      height: 12
+    spriteID: 1ee6e1ca830298e44a09ef50d3a69c46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 60}
+  - name: IceSlime_Frame_32
+    originalName: 
+    pivot: {x: 0.5625, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 80
+      width: 16
+      height: 11
+    spriteID: f955f42665d3d63428fcf05076a6d167
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 80}
+  - name: IceSlime_Frame_33
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 100
+      width: 14
+      height: 13
+    spriteID: fbcc3c55dd95bef4ea8b63df21cbabf9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 100}
+  - name: IceSlime_Frame_34
+    originalName: 
+    pivot: {x: 0.5625, y: -1.4166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 60
+      width: 16
+      height: 12
+    spriteID: 1692c4297985da14f8c951369176f6f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 60}
+  - name: IceSlime_Frame_35
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 60
+      width: 16
+      height: 12
+    spriteID: dbd57f64e83cd5740a14a11e00813321
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 60}
+  - name: IceSlime_Frame_36
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 60
+      width: 16
+      height: 12
+    spriteID: ad405a0700c16dc49bf08252bd83e0f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 60}
+  - name: IceSlime_Frame_37
+    originalName: 
+    pivot: {x: 0.47058824, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 135
+      y: 4
+      width: 17
+      height: 16
+    spriteID: a4e51831fa7e60243a4447db17c519a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 4}
+  - name: IceSlime_Frame_38
+    originalName: 
+    pivot: {x: 0.3888889, y: -0.7619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 35
+      width: 18
+      height: 21
+    spriteID: 57129b99cb656a749a2fa3ea57680a32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 35}
+  - name: IceSlime_Frame_39
+    originalName: 
+    pivot: {x: 0.36363637, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 22
+      height: 23
+    spriteID: 9be9bd2d74e61d8418ae1d17cf7ccc8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: IceSlime_Frame_40
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 60
+      width: 16
+      height: 12
+    spriteID: 98e3307cd18a57742bbe7c3064868775
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 60}
+  - name: IceSlime_Frame_41
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 80
+      width: 16
+      height: 12
+    spriteID: 103f67340875ab24da6cbcaa2eefc158
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 80}
+  - name: IceSlime_Frame_42
+    originalName: 
+    pivot: {x: 0.5625, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 80
+      width: 16
+      height: 11
+    spriteID: 6e1fa168469831e4da8d7a9944ca0e5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 80}
+  - name: IceSlime_Frame_43
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 100
+      width: 14
+      height: 13
+    spriteID: 3ba50742509ca6440bdcf02ff6368fe7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 100}
+  - name: IceSlime_Frame_44
+    originalName: 
+    pivot: {x: 0.5625, y: -1.4166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 80
+      width: 16
+      height: 12
+    spriteID: c1e2df713cc51f748bf712d933c58d12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 80}
+  - name: IceSlime_Frame_45
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 80
+      width: 16
+      height: 12
+    spriteID: 6476af56abb48124e9c12ddee43d58c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 80}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -84157823
+    name: IceSlime
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: IceSlime_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 9f5cebc4c02b82f4391eb38e96bffc37
+    - name: IceSlime_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 11
+      spriteId: e0de3935cd03e6443b118f6f9aaa75eb
+    - name: IceSlime_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 18c901893285feb4b9726256d52b5607
+    - name: IceSlime_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 24
+        y: 16
+        width: 14
+        height: 13
+      spriteId: 8021127d9d8d22243bed6636926ecc04
+    - name: IceSlime_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 25
+        y: 16
+        width: 12
+        height: 14
+      spriteId: e75d2ab7cb27d7542a42016a9efdaa2d
+    - name: IceSlime_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 26
+        y: 16
+        width: 10
+        height: 16
+      spriteId: a411ffbfe57a0fd49948278f94190919
+    - name: IceSlime_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 28
+        y: 16
+        width: 6
+        height: 17
+      spriteId: 372feffc07205ae4087607cb2853358f
+    - name: IceSlime_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 28
+        y: 16
+        width: 6
+        height: 17
+      spriteId: fef3b2ae6ebc06948b0694e58643e6d0
+    - name: IceSlime_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 24
+        y: 16
+        width: 14
+        height: 17
+      spriteId: bf0188b9e9ea4aa4baf5d76cfc50f85a
+    - name: IceSlime_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 22
+        y: 16
+        width: 18
+        height: 15
+      spriteId: 69fe8663cbfee384d89e47f4505edeee
+    - name: IceSlime_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 20
+        y: 16
+        width: 22
+        height: 9
+      spriteId: 3c0db7cb46d081f4681c6084844cafc6
+    - name: IceSlime_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 18
+        y: 16
+        width: 27
+        height: 4
+      spriteId: f69d0f93e71fb0744b737ab84c5b6477
+    - name: IceSlime_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 884926aff1aac4a4d822ab7864435296
+    - name: IceSlime_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 11
+      spriteId: 5e3c452a8939b1a4cbc2d7c67ce8794c
+    - name: IceSlime_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 24
+        y: 18
+        width: 14
+        height: 15
+      spriteId: 0c08d92545c7cc447a865410eaaadd68
+    - name: IceSlime_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 22
+        y: 16
+        width: 18
+        height: 10
+      spriteId: 1aed2a2ad8c702d478ab63bb4b58b63e
+    - name: IceSlime_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 20
+        y: 16
+        width: 22
+        height: 9
+      spriteId: f090c51806a2cf449a3b54591ef1119d
+    - name: IceSlime_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 17
+        y: 16
+        width: 29
+        height: 7
+      spriteId: dd537fe4e20846d469db47c9a95251e3
+    - name: IceSlime_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 22
+        y: 16
+        width: 18
+        height: 10
+      spriteId: 5b94b43a599d28b43b9361ef58cce5c4
+    - name: IceSlime_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 24
+        y: 16
+        width: 14
+        height: 12
+      spriteId: 553b649b627c2794c8f5e43f1b7d83b2
+    - name: IceSlime_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 25
+        y: 16
+        width: 12
+        height: 19
+      spriteId: a3d1d1a6a008582499df0d2ca1c3d3c5
+    - name: IceSlime_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 26
+        y: 19
+        width: 10
+        height: 23
+      spriteId: 71d4eac0ab25bcd47b31e983bb51df11
+    - name: IceSlime_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 25
+        y: 27
+        width: 12
+        height: 20
+      spriteId: 154a7895274f2844e9c29f8bfa9314a5
+    - name: IceSlime_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 24
+        y: 36
+        width: 14
+        height: 16
+      spriteId: 2dc5e51f56f1b2a43979ca16da659a38
+    - name: IceSlime_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 23
+        y: 41
+        width: 16
+        height: 12
+      spriteId: a73f2fffe45ddad4997406b862f5218e
+    - name: IceSlime_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 23
+        y: 38
+        width: 16
+        height: 14
+      spriteId: 2ebac0ade3dbcd94aa97e85945aac97c
+    - name: IceSlime_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 24
+        y: 34
+        width: 14
+        height: 16
+      spriteId: 2801f053ed21a5f4aaee75918ee7ab5c
+    - name: IceSlime_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 25
+        y: 20
+        width: 12
+        height: 20
+      spriteId: 955ceb4ce5b2e6d4ab46ebeb9edf3100
+    - name: IceSlime_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 19
+        y: 12
+        width: 26
+        height: 14
+      spriteId: a21fb473ce7e7314a8a284d60659135d
+    - name: IceSlime_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 19
+        y: 12
+        width: 26
+        height: 16
+      spriteId: 2f5225333e7ca5d49abe79e7cec09fce
+    - name: IceSlime_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 20
+        y: 12
+        width: 25
+        height: 16
+      spriteId: 026e8187c515b4143bf21be867e7154c
+    - name: IceSlime_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 1ee6e1ca830298e44a09ef50d3a69c46
+    - name: IceSlime_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 11
+      spriteId: f955f42665d3d63428fcf05076a6d167
+    - name: IceSlime_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 24
+        y: 16
+        width: 14
+        height: 13
+      spriteId: fbcc3c55dd95bef4ea8b63df21cbabf9
+    - name: IceSlime_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 23
+        y: 17
+        width: 16
+        height: 12
+      spriteId: 1692c4297985da14f8c951369176f6f6
+    - name: IceSlime_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: dbd57f64e83cd5740a14a11e00813321
+    - name: IceSlime_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: ad405a0700c16dc49bf08252bd83e0f6
+    - name: IceSlime_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 24
+        y: 16
+        width: 17
+        height: 16
+      spriteId: a4e51831fa7e60243a4447db17c519a1
+    - name: IceSlime_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 25
+        y: 16
+        width: 18
+        height: 21
+      spriteId: 57129b99cb656a749a2fa3ea57680a32
+    - name: IceSlime_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 24
+        y: 16
+        width: 22
+        height: 23
+      spriteId: 9be9bd2d74e61d8418ae1d17cf7ccc8e
+    - name: IceSlime_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 98e3307cd18a57742bbe7c3064868775
+    - name: IceSlime_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 103f67340875ab24da6cbcaa2eefc158
+    - name: IceSlime_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 11
+      spriteId: 6e1fa168469831e4da8d7a9944ca0e5a
+    - name: IceSlime_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 24
+        y: 16
+        width: 14
+        height: 13
+      spriteId: 3ba50742509ca6440bdcf02ff6368fe7
+    - name: IceSlime_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 23
+        y: 17
+        width: 16
+        height: 12
+      spriteId: c1e2df713cc51f748bf712d933c58d12
+    - name: IceSlime_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 6476af56abb48124e9c12ddee43d58c6
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}

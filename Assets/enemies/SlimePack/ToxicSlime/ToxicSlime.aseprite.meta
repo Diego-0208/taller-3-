@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: ee39abecbf595744a891c937c90171a9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: ToxicSlime_Frame_0
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 88
+      width: 16
+      height: 12
+    spriteID: 8b3cd7bb707653943b16f5fe9b46c323
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 88}
+  - name: ToxicSlime_Frame_1
+    originalName: 
+    pivot: {x: 0.5625, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 155
+      width: 16
+      height: 11
+    spriteID: 7f952a34b34e5194fa34aec651624df9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 155}
+  - name: ToxicSlime_Frame_2
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 88
+      width: 16
+      height: 12
+    spriteID: 7a9991261da64c24990507eee3ec6178
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 88}
+  - name: ToxicSlime_Frame_3
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 112
+      width: 14
+      height: 13
+    spriteID: c6822ec268a5a7f4d92170099af4451e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 112}
+  - name: ToxicSlime_Frame_4
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 46
+      width: 12
+      height: 14
+    spriteID: 9be76f3a6cf2a0f48b019425e9a6b359
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 46}
+  - name: ToxicSlime_Frame_5
+    originalName: 
+    pivot: {x: 0.6, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 174
+      width: 10
+      height: 16
+    spriteID: ce43b06a2c746c94bb00cb5b4c7a617e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 174}
+  - name: ToxicSlime_Frame_6
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.9411765}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 4
+      width: 6
+      height: 17
+    spriteID: 8703d87b9d180e04f97aeaf843eba775
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 4}
+  - name: ToxicSlime_Frame_7
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.9411765}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 198
+      width: 6
+      height: 17
+    spriteID: 35a2721c4ef77ec4fb0d81aebc35106a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 198}
+  - name: ToxicSlime_Frame_8
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.9411765}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 112
+      width: 14
+      height: 17
+    spriteID: 9fe17174d920c6348ae4daa061e2475d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 112}
+  - name: ToxicSlime_Frame_9
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.0666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 88
+      width: 18
+      height: 15
+    spriteID: 591786ce183c92f48ba458a7379a9380
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 88}
+  - name: ToxicSlime_Frame_10
+    originalName: 
+    pivot: {x: 0.54545456, y: -1.7777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 88
+      width: 22
+      height: 9
+    spriteID: 1e58d7acb6331c34a8256e9e4b6b1ddd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 88}
+  - name: ToxicSlime_Frame_11
+    originalName: 
+    pivot: {x: 0.5185185, y: -4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 155
+      width: 27
+      height: 4
+    spriteID: 7f8d205cab60a93428cf66b5c499ce9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 155}
+  - name: ToxicSlime_Frame_12
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 88
+      width: 16
+      height: 12
+    spriteID: 0cae92512fb5f4841af190b2d4d03f65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 88}
+  - name: ToxicSlime_Frame_13
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 137
+      width: 18
+      height: 10
+    spriteID: e460698462d68844cb60a4c564cb6038
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 137}
+  - name: ToxicSlime_Frame_14
+    originalName: 
+    pivot: {x: 0.54545456, y: -1.7777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 88
+      width: 22
+      height: 9
+    spriteID: 7c0d228f6cb87364bb90c42fcf27d5c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 88}
+  - name: ToxicSlime_Frame_15
+    originalName: 
+    pivot: {x: 0.51724136, y: -2.2857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 88
+      width: 29
+      height: 7
+    spriteID: be99212f4457ad94d8edd493a27cb23e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 88}
+  - name: ToxicSlime_Frame_16
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 137
+      width: 18
+      height: 10
+    spriteID: e38f8760b00a7b6459dff5c138f9a3c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 137}
+  - name: ToxicSlime_Frame_17
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.7619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 46
+      width: 14
+      height: 21
+    spriteID: ea3c489f240cc3642bc26733c5fec3a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 46}
+  - name: ToxicSlime_Frame_18
+    originalName: 
+    pivot: {x: 0.6086957, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 46
+      width: 23
+      height: 31
+    spriteID: 130f5ca0a4633fd4cb6233af509cc6e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 46}
+  - name: ToxicSlime_Frame_19
+    originalName: 
+    pivot: {x: 0.509434, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 46
+      width: 53
+      height: 34
+    spriteID: 545e9b6a4626a424792467e081e0bb42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 46}
+  - name: ToxicSlime_Frame_20
+    originalName: 
+    pivot: {x: 0.5084746, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 59
+      height: 34
+    spriteID: b6616d9ad3127cc4f93a842c78a55a56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: ToxicSlime_Frame_21
+    originalName: 
+    pivot: {x: 0.5178572, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 4
+      width: 56
+      height: 33
+    spriteID: bf039cc8a15e5034da78bac26e4d4614
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 4}
+  - name: ToxicSlime_Frame_22
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 4
+      width: 57
+      height: 33
+    spriteID: 35a5157ac00521f42a06e490112c85c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 4}
+  - name: ToxicSlime_Frame_23
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 4
+      width: 36
+      height: 33
+    spriteID: c404e009766260b4a8dd04f58c584eb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 4}
+  - name: ToxicSlime_Frame_24
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 46
+      width: 30
+      height: 33
+    spriteID: 8d6caa289022fce47a2e8abefc01d633
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 46}
+  - name: ToxicSlime_Frame_25
+    originalName: 
+    pivot: {x: 0.55, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 46
+      width: 20
+      height: 32
+    spriteID: af863e73c44e26140b4dfad61d57ce8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 46}
+  - name: ToxicSlime_Frame_26
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 88
+      width: 16
+      height: 12
+    spriteID: 61767e1163ed9ee4c869b882b5165961
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 88}
+  - name: ToxicSlime_Frame_27
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 112
+      width: 16
+      height: 12
+    spriteID: 6007759a44258344b80939379cfce317
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 112}
+  - name: ToxicSlime_Frame_28
+    originalName: 
+    pivot: {x: 0.5625, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 155
+      width: 16
+      height: 11
+    spriteID: 26612384c03610844bc6ea4cce519734
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 155}
+  - name: ToxicSlime_Frame_29
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 216
+      y: 112
+      width: 14
+      height: 13
+    spriteID: 9276a19818b6aa84a88d60616f019ffa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 112}
+  - name: ToxicSlime_Frame_30
+    originalName: 
+    pivot: {x: 0.5625, y: -1.4166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 112
+      width: 16
+      height: 12
+    spriteID: 571d46d2554fee742a404b91368b8a38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 112}
+  - name: ToxicSlime_Frame_31
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 112
+      width: 16
+      height: 12
+    spriteID: 5274c8c72ffd1f54aa722f4439005adb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 112}
+  - name: ToxicSlime_Frame_32
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 112
+      width: 16
+      height: 12
+    spriteID: bd992b9b9480e8a49b682dd0a1f4b73d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 112}
+  - name: ToxicSlime_Frame_33
+    originalName: 
+    pivot: {x: 0.47058824, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 88
+      width: 17
+      height: 16
+    spriteID: d84edeb4dad053546877aea61b685adc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 88}
+  - name: ToxicSlime_Frame_34
+    originalName: 
+    pivot: {x: 0.3888889, y: -0.7619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 46
+      width: 18
+      height: 21
+    spriteID: 9104e2d1976a3a441b83c06482f2d755
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 46}
+  - name: ToxicSlime_Frame_35
+    originalName: 
+    pivot: {x: 0.36363637, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 46
+      width: 22
+      height: 23
+    spriteID: 961aa929fce54aa41b1b5e39a5321be7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 46}
+  - name: ToxicSlime_Frame_36
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 112
+      width: 16
+      height: 12
+    spriteID: 06d249438907da74cb623166c1fbd8b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 112}
+  - name: ToxicSlime_Frame_37
+    originalName: 
+    pivot: {x: 0.5625, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 155
+      width: 16
+      height: 11
+    spriteID: 1785b11a135974449b668e4bf44c91e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 155}
+  - name: ToxicSlime_Frame_38
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 238
+      y: 112
+      width: 14
+      height: 13
+    spriteID: 5ac310d2c18fb0e48b4ca2c8ebbdc132
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 112}
+  - name: ToxicSlime_Frame_39
+    originalName: 
+    pivot: {x: 0.5625, y: -1.4166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 112
+      width: 16
+      height: 12
+    spriteID: 45b8117946400f24d8a5d26fc9f6ba1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 112}
+  - name: ToxicSlime_Frame_40
+    originalName: 
+    pivot: {x: 0.5625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 112
+      width: 16
+      height: 12
+    spriteID: c397a2c421feed946a097a311c7fcab2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 112}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1572306155
+    name: ToxicSlime
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: ToxicSlime_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 8b3cd7bb707653943b16f5fe9b46c323
+    - name: ToxicSlime_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 11
+      spriteId: 7f952a34b34e5194fa34aec651624df9
+    - name: ToxicSlime_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 7a9991261da64c24990507eee3ec6178
+    - name: ToxicSlime_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 24
+        y: 16
+        width: 14
+        height: 13
+      spriteId: c6822ec268a5a7f4d92170099af4451e
+    - name: ToxicSlime_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 25
+        y: 16
+        width: 12
+        height: 14
+      spriteId: 9be76f3a6cf2a0f48b019425e9a6b359
+    - name: ToxicSlime_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 26
+        y: 16
+        width: 10
+        height: 16
+      spriteId: ce43b06a2c746c94bb00cb5b4c7a617e
+    - name: ToxicSlime_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 28
+        y: 16
+        width: 6
+        height: 17
+      spriteId: 8703d87b9d180e04f97aeaf843eba775
+    - name: ToxicSlime_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 28
+        y: 16
+        width: 6
+        height: 17
+      spriteId: 35a2721c4ef77ec4fb0d81aebc35106a
+    - name: ToxicSlime_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 24
+        y: 16
+        width: 14
+        height: 17
+      spriteId: 9fe17174d920c6348ae4daa061e2475d
+    - name: ToxicSlime_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 22
+        y: 16
+        width: 18
+        height: 15
+      spriteId: 591786ce183c92f48ba458a7379a9380
+    - name: ToxicSlime_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 20
+        y: 16
+        width: 22
+        height: 9
+      spriteId: 1e58d7acb6331c34a8256e9e4b6b1ddd
+    - name: ToxicSlime_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 18
+        y: 16
+        width: 27
+        height: 4
+      spriteId: 7f8d205cab60a93428cf66b5c499ce9c
+    - name: ToxicSlime_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 0cae92512fb5f4841af190b2d4d03f65
+    - name: ToxicSlime_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 22
+        y: 16
+        width: 18
+        height: 10
+      spriteId: e460698462d68844cb60a4c564cb6038
+    - name: ToxicSlime_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 20
+        y: 16
+        width: 22
+        height: 9
+      spriteId: 7c0d228f6cb87364bb90c42fcf27d5c3
+    - name: ToxicSlime_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 17
+        y: 16
+        width: 29
+        height: 7
+      spriteId: be99212f4457ad94d8edd493a27cb23e
+    - name: ToxicSlime_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 22
+        y: 16
+        width: 18
+        height: 10
+      spriteId: e38f8760b00a7b6459dff5c138f9a3c6
+    - name: ToxicSlime_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 24
+        y: 16
+        width: 14
+        height: 21
+      spriteId: ea3c489f240cc3642bc26733c5fec3a5
+    - name: ToxicSlime_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 18
+        y: 16
+        width: 23
+        height: 31
+      spriteId: 130f5ca0a4633fd4cb6233af509cc6e3
+    - name: ToxicSlime_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 5
+        y: 16
+        width: 53
+        height: 34
+      spriteId: 545e9b6a4626a424792467e081e0bb42
+    - name: ToxicSlime_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 2
+        y: 16
+        width: 59
+        height: 34
+      spriteId: b6616d9ad3127cc4f93a842c78a55a56
+    - name: ToxicSlime_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 3
+        y: 16
+        width: 56
+        height: 33
+      spriteId: bf039cc8a15e5034da78bac26e4d4614
+    - name: ToxicSlime_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 3
+        y: 16
+        width: 57
+        height: 33
+      spriteId: 35a5157ac00521f42a06e490112c85c1
+    - name: ToxicSlime_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 12
+        y: 16
+        width: 36
+        height: 33
+      spriteId: c404e009766260b4a8dd04f58c584eb5
+    - name: ToxicSlime_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 16
+        y: 16
+        width: 30
+        height: 33
+      spriteId: 8d6caa289022fce47a2e8abefc01d633
+    - name: ToxicSlime_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 21
+        y: 16
+        width: 20
+        height: 32
+      spriteId: af863e73c44e26140b4dfad61d57ce8a
+    - name: ToxicSlime_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 61767e1163ed9ee4c869b882b5165961
+    - name: ToxicSlime_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 6007759a44258344b80939379cfce317
+    - name: ToxicSlime_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 11
+      spriteId: 26612384c03610844bc6ea4cce519734
+    - name: ToxicSlime_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 24
+        y: 16
+        width: 14
+        height: 13
+      spriteId: 9276a19818b6aa84a88d60616f019ffa
+    - name: ToxicSlime_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 23
+        y: 17
+        width: 16
+        height: 12
+      spriteId: 571d46d2554fee742a404b91368b8a38
+    - name: ToxicSlime_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 5274c8c72ffd1f54aa722f4439005adb
+    - name: ToxicSlime_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: bd992b9b9480e8a49b682dd0a1f4b73d
+    - name: ToxicSlime_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 24
+        y: 16
+        width: 17
+        height: 16
+      spriteId: d84edeb4dad053546877aea61b685adc
+    - name: ToxicSlime_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 25
+        y: 16
+        width: 18
+        height: 21
+      spriteId: 9104e2d1976a3a441b83c06482f2d755
+    - name: ToxicSlime_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 24
+        y: 16
+        width: 22
+        height: 23
+      spriteId: 961aa929fce54aa41b1b5e39a5321be7
+    - name: ToxicSlime_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: 06d249438907da74cb623166c1fbd8b9
+    - name: ToxicSlime_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 11
+      spriteId: 1785b11a135974449b668e4bf44c91e4
+    - name: ToxicSlime_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 24
+        y: 16
+        width: 14
+        height: 13
+      spriteId: 5ac310d2c18fb0e48b4ca2c8ebbdc132
+    - name: ToxicSlime_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 23
+        y: 17
+        width: 16
+        height: 12
+      spriteId: 45b8117946400f24d8a5d26fc9f6ba1a
+    - name: ToxicSlime_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 23
+        y: 16
+        width: 16
+        height: 12
+      spriteId: c397a2c421feed946a097a311c7fcab2
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}

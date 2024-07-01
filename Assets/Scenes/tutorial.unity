@@ -1955,6 +1955,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   invisibilityDuration: 5
+  playerOpacity: 0.5
 --- !u!212 &1270932894
 SpriteRenderer:
   m_ObjectHideFlags: 0

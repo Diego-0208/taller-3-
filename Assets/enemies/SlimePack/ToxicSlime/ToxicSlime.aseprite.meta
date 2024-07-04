@@ -952,7 +952,6 @@ ScriptedImporter:
     cells:
     - name: ToxicSlime_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -961,7 +960,6 @@ ScriptedImporter:
       spriteId: 8b3cd7bb707653943b16f5fe9b46c323
     - name: ToxicSlime_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -970,7 +968,6 @@ ScriptedImporter:
       spriteId: 7f952a34b34e5194fa34aec651624df9
     - name: ToxicSlime_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -979,7 +976,6 @@ ScriptedImporter:
       spriteId: 7a9991261da64c24990507eee3ec6178
     - name: ToxicSlime_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -988,7 +984,6 @@ ScriptedImporter:
       spriteId: c6822ec268a5a7f4d92170099af4451e
     - name: ToxicSlime_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 16
@@ -997,7 +992,6 @@ ScriptedImporter:
       spriteId: 9be76f3a6cf2a0f48b019425e9a6b359
     - name: ToxicSlime_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 16
@@ -1006,7 +1000,6 @@ ScriptedImporter:
       spriteId: ce43b06a2c746c94bb00cb5b4c7a617e
     - name: ToxicSlime_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 28
         y: 16
@@ -1015,7 +1008,6 @@ ScriptedImporter:
       spriteId: 8703d87b9d180e04f97aeaf843eba775
     - name: ToxicSlime_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 28
         y: 16
@@ -1024,7 +1016,6 @@ ScriptedImporter:
       spriteId: 35a2721c4ef77ec4fb0d81aebc35106a
     - name: ToxicSlime_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1033,7 +1024,6 @@ ScriptedImporter:
       spriteId: 9fe17174d920c6348ae4daa061e2475d
     - name: ToxicSlime_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 22
         y: 16
@@ -1042,7 +1032,6 @@ ScriptedImporter:
       spriteId: 591786ce183c92f48ba458a7379a9380
     - name: ToxicSlime_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 20
         y: 16
@@ -1051,7 +1040,6 @@ ScriptedImporter:
       spriteId: 1e58d7acb6331c34a8256e9e4b6b1ddd
     - name: ToxicSlime_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 18
         y: 16
@@ -1060,7 +1048,6 @@ ScriptedImporter:
       spriteId: 7f8d205cab60a93428cf66b5c499ce9c
     - name: ToxicSlime_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1069,7 +1056,6 @@ ScriptedImporter:
       spriteId: 0cae92512fb5f4841af190b2d4d03f65
     - name: ToxicSlime_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 22
         y: 16
@@ -1078,7 +1064,6 @@ ScriptedImporter:
       spriteId: e460698462d68844cb60a4c564cb6038
     - name: ToxicSlime_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 20
         y: 16
@@ -1087,7 +1072,6 @@ ScriptedImporter:
       spriteId: 7c0d228f6cb87364bb90c42fcf27d5c3
     - name: ToxicSlime_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: 17
         y: 16
@@ -1096,7 +1080,6 @@ ScriptedImporter:
       spriteId: be99212f4457ad94d8edd493a27cb23e
     - name: ToxicSlime_Frame_16
       frameIndex: 16
-      additiveSortOrder: 0
       cellRect:
         x: 22
         y: 16
@@ -1105,7 +1088,6 @@ ScriptedImporter:
       spriteId: e38f8760b00a7b6459dff5c138f9a3c6
     - name: ToxicSlime_Frame_17
       frameIndex: 17
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1114,7 +1096,6 @@ ScriptedImporter:
       spriteId: ea3c489f240cc3642bc26733c5fec3a5
     - name: ToxicSlime_Frame_18
       frameIndex: 18
-      additiveSortOrder: 0
       cellRect:
         x: 18
         y: 16
@@ -1123,7 +1104,6 @@ ScriptedImporter:
       spriteId: 130f5ca0a4633fd4cb6233af509cc6e3
     - name: ToxicSlime_Frame_19
       frameIndex: 19
-      additiveSortOrder: 0
       cellRect:
         x: 5
         y: 16
@@ -1132,7 +1112,6 @@ ScriptedImporter:
       spriteId: 545e9b6a4626a424792467e081e0bb42
     - name: ToxicSlime_Frame_20
       frameIndex: 20
-      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 16
@@ -1141,7 +1120,6 @@ ScriptedImporter:
       spriteId: b6616d9ad3127cc4f93a842c78a55a56
     - name: ToxicSlime_Frame_21
       frameIndex: 21
-      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 16
@@ -1150,7 +1128,6 @@ ScriptedImporter:
       spriteId: bf039cc8a15e5034da78bac26e4d4614
     - name: ToxicSlime_Frame_22
       frameIndex: 22
-      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 16
@@ -1159,7 +1136,6 @@ ScriptedImporter:
       spriteId: 35a5157ac00521f42a06e490112c85c1
     - name: ToxicSlime_Frame_23
       frameIndex: 23
-      additiveSortOrder: 0
       cellRect:
         x: 12
         y: 16
@@ -1168,7 +1144,6 @@ ScriptedImporter:
       spriteId: c404e009766260b4a8dd04f58c584eb5
     - name: ToxicSlime_Frame_24
       frameIndex: 24
-      additiveSortOrder: 0
       cellRect:
         x: 16
         y: 16
@@ -1177,7 +1152,6 @@ ScriptedImporter:
       spriteId: 8d6caa289022fce47a2e8abefc01d633
     - name: ToxicSlime_Frame_25
       frameIndex: 25
-      additiveSortOrder: 0
       cellRect:
         x: 21
         y: 16
@@ -1186,7 +1160,6 @@ ScriptedImporter:
       spriteId: af863e73c44e26140b4dfad61d57ce8a
     - name: ToxicSlime_Frame_26
       frameIndex: 26
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1195,7 +1168,6 @@ ScriptedImporter:
       spriteId: 61767e1163ed9ee4c869b882b5165961
     - name: ToxicSlime_Frame_27
       frameIndex: 27
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1204,7 +1176,6 @@ ScriptedImporter:
       spriteId: 6007759a44258344b80939379cfce317
     - name: ToxicSlime_Frame_28
       frameIndex: 28
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1213,7 +1184,6 @@ ScriptedImporter:
       spriteId: 26612384c03610844bc6ea4cce519734
     - name: ToxicSlime_Frame_29
       frameIndex: 29
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1222,7 +1192,6 @@ ScriptedImporter:
       spriteId: 9276a19818b6aa84a88d60616f019ffa
     - name: ToxicSlime_Frame_30
       frameIndex: 30
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 17
@@ -1231,7 +1200,6 @@ ScriptedImporter:
       spriteId: 571d46d2554fee742a404b91368b8a38
     - name: ToxicSlime_Frame_31
       frameIndex: 31
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1240,7 +1208,6 @@ ScriptedImporter:
       spriteId: 5274c8c72ffd1f54aa722f4439005adb
     - name: ToxicSlime_Frame_32
       frameIndex: 32
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1249,7 +1216,6 @@ ScriptedImporter:
       spriteId: bd992b9b9480e8a49b682dd0a1f4b73d
     - name: ToxicSlime_Frame_33
       frameIndex: 33
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1258,7 +1224,6 @@ ScriptedImporter:
       spriteId: d84edeb4dad053546877aea61b685adc
     - name: ToxicSlime_Frame_34
       frameIndex: 34
-      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 16
@@ -1267,7 +1232,6 @@ ScriptedImporter:
       spriteId: 9104e2d1976a3a441b83c06482f2d755
     - name: ToxicSlime_Frame_35
       frameIndex: 35
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1276,7 +1240,6 @@ ScriptedImporter:
       spriteId: 961aa929fce54aa41b1b5e39a5321be7
     - name: ToxicSlime_Frame_36
       frameIndex: 36
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1285,7 +1248,6 @@ ScriptedImporter:
       spriteId: 06d249438907da74cb623166c1fbd8b9
     - name: ToxicSlime_Frame_37
       frameIndex: 37
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1294,7 +1256,6 @@ ScriptedImporter:
       spriteId: 1785b11a135974449b668e4bf44c91e4
     - name: ToxicSlime_Frame_38
       frameIndex: 38
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1303,7 +1264,6 @@ ScriptedImporter:
       spriteId: 5ac310d2c18fb0e48b4ca2c8ebbdc132
     - name: ToxicSlime_Frame_39
       frameIndex: 39
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 17
@@ -1312,7 +1272,6 @@ ScriptedImporter:
       spriteId: 45b8117946400f24d8a5d26fc9f6ba1a
     - name: ToxicSlime_Frame_40
       frameIndex: 40
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16

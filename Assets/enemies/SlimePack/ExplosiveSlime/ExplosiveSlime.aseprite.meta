@@ -1192,6 +1192,7 @@ ScriptedImporter:
     cells:
     - name: ExplosiveSlime_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1200,6 +1201,7 @@ ScriptedImporter:
       spriteId: 7f815a3705134da4087a0e905b6ef368
     - name: ExplosiveSlime_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1208,6 +1210,7 @@ ScriptedImporter:
       spriteId: 14ddc24dce6bb2949ab0548260292b42
     - name: ExplosiveSlime_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1216,6 +1219,7 @@ ScriptedImporter:
       spriteId: b3054dff2ba98f844a2c40ecedb6c60c
     - name: ExplosiveSlime_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1224,6 +1228,7 @@ ScriptedImporter:
       spriteId: 981c0aa7ec0086949a39b93434eee6b0
     - name: ExplosiveSlime_Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 16
@@ -1232,6 +1237,7 @@ ScriptedImporter:
       spriteId: fdcf67b7f45941b4bad70b2a37c0ac54
     - name: ExplosiveSlime_Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 28
         y: 16
@@ -1240,6 +1246,7 @@ ScriptedImporter:
       spriteId: bb4dcf5598871db44be203ca6fd54d56
     - name: ExplosiveSlime_Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 28
         y: 16
@@ -1248,6 +1255,7 @@ ScriptedImporter:
       spriteId: 4776119d131ebb04f88f98a725fe0adf
     - name: ExplosiveSlime_Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 16
@@ -1256,6 +1264,7 @@ ScriptedImporter:
       spriteId: 13b8f1e88bd27124d8dec73b1357b01a
     - name: ExplosiveSlime_Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 12
         y: 9
@@ -1264,6 +1273,7 @@ ScriptedImporter:
       spriteId: 0a3a849010b3ba540a043e46f2d6ecfe
     - name: ExplosiveSlime_Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 5
@@ -1272,6 +1282,7 @@ ScriptedImporter:
       spriteId: c92206c15e801a548a253e647adef92d
     - name: ExplosiveSlime_Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 2
@@ -1280,6 +1291,7 @@ ScriptedImporter:
       spriteId: 3f05b7a42d4229b43a28068f0b07f475
     - name: ExplosiveSlime_Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 7
         y: 3
@@ -1288,6 +1300,7 @@ ScriptedImporter:
       spriteId: eecf1c3acaeb2f649916fab2a2695755
     - name: ExplosiveSlime_Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 1
@@ -1296,6 +1309,7 @@ ScriptedImporter:
       spriteId: 08b7d317803be9f42a1e9fd6081f08a2
     - name: ExplosiveSlime_Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 0
@@ -1304,6 +1318,7 @@ ScriptedImporter:
       spriteId: 8421b8556a8938b4da5814a108772a28
     - name: ExplosiveSlime_Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 18
         y: 16
@@ -1312,6 +1327,7 @@ ScriptedImporter:
       spriteId: 19e6ef45509c5984b9fe74a133c13d7f
     - name: ExplosiveSlime_Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1320,6 +1336,7 @@ ScriptedImporter:
       spriteId: 55a9d50cfdcaabd478390360c586b378
     - name: ExplosiveSlime_Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1328,6 +1345,7 @@ ScriptedImporter:
       spriteId: 0be658a19673f3c43a9dddfeb910dd3c
     - name: ExplosiveSlime_Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 18
@@ -1336,6 +1354,7 @@ ScriptedImporter:
       spriteId: 382cdb97a0d436845be7603bffb64c7d
     - name: ExplosiveSlime_Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 22
         y: 16
@@ -1344,6 +1363,7 @@ ScriptedImporter:
       spriteId: a016c454aa059a745bd732f652ce610e
     - name: ExplosiveSlime_Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 20
         y: 16
@@ -1352,6 +1372,7 @@ ScriptedImporter:
       spriteId: 7133a58781c9229479d14bb1604070bd
     - name: ExplosiveSlime_Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 17
         y: 16
@@ -1360,6 +1381,7 @@ ScriptedImporter:
       spriteId: 17152bba4753a114db699fc265ddf984
     - name: ExplosiveSlime_Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 22
         y: 16
@@ -1368,6 +1390,7 @@ ScriptedImporter:
       spriteId: 16c32ebe686747c4aa5181ff3a2d78d4
     - name: ExplosiveSlime_Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1376,6 +1399,7 @@ ScriptedImporter:
       spriteId: 6650544a7c9aa944da7c3fa9c070aa67
     - name: ExplosiveSlime_Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 16
@@ -1384,6 +1408,7 @@ ScriptedImporter:
       spriteId: 67b754e34a9ee0442b10b104516a1754
     - name: ExplosiveSlime_Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 19
@@ -1392,6 +1417,7 @@ ScriptedImporter:
       spriteId: c43b25cfdde7d7a4b8512da992184b82
     - name: ExplosiveSlime_Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 27
@@ -1400,6 +1426,7 @@ ScriptedImporter:
       spriteId: b3124d219bf23ca4395b2d597cd43f4a
     - name: ExplosiveSlime_Frame_26
       frameIndex: 26
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 36
@@ -1408,6 +1435,7 @@ ScriptedImporter:
       spriteId: 3f7fb5b9353fd45458352742f9bbe295
     - name: ExplosiveSlime_Frame_27
       frameIndex: 27
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 41
@@ -1416,6 +1444,7 @@ ScriptedImporter:
       spriteId: fd86553da5641de47866fa495e7b774d
     - name: ExplosiveSlime_Frame_28
       frameIndex: 28
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 38
@@ -1424,6 +1453,7 @@ ScriptedImporter:
       spriteId: d73d9651ee46f7e45bacfca6a8a643ce
     - name: ExplosiveSlime_Frame_29
       frameIndex: 29
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 34
@@ -1432,6 +1462,7 @@ ScriptedImporter:
       spriteId: 99d255b258ff09246babd4834357daea
     - name: ExplosiveSlime_Frame_30
       frameIndex: 30
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 15
@@ -1440,6 +1471,7 @@ ScriptedImporter:
       spriteId: 2dc31c616a3311242b342a304ddf0939
     - name: ExplosiveSlime_Frame_31
       frameIndex: 31
+      additiveSortOrder: 0
       cellRect:
         x: 22
         y: 14
@@ -1448,6 +1480,7 @@ ScriptedImporter:
       spriteId: 602563a4e8fdb064d936c0ca9b4491a0
     - name: ExplosiveSlime_Frame_32
       frameIndex: 32
+      additiveSortOrder: 0
       cellRect:
         x: 12
         y: 7
@@ -1456,6 +1489,7 @@ ScriptedImporter:
       spriteId: 3d39c492dd96a534f80ba1cbf9269cb8
     - name: ExplosiveSlime_Frame_33
       frameIndex: 33
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 2
@@ -1464,6 +1498,7 @@ ScriptedImporter:
       spriteId: 40349ef2e5daeed43b76fa0cbabf17a1
     - name: ExplosiveSlime_Frame_34
       frameIndex: 34
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 0
@@ -1472,6 +1507,7 @@ ScriptedImporter:
       spriteId: 8c3d7e4bf21445446adbc2d8c6a8b773
     - name: ExplosiveSlime_Frame_35
       frameIndex: 35
+      additiveSortOrder: 0
       cellRect:
         x: 8
         y: 2
@@ -1480,6 +1516,7 @@ ScriptedImporter:
       spriteId: 70a702e715b8ce544bf0885eaf8e548f
     - name: ExplosiveSlime_Frame_36
       frameIndex: 36
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 1
@@ -1488,6 +1525,7 @@ ScriptedImporter:
       spriteId: bf1d6f8a49241b14e9e608058e5e8a93
     - name: ExplosiveSlime_Frame_37
       frameIndex: 37
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 0
@@ -1496,6 +1534,7 @@ ScriptedImporter:
       spriteId: 790d206113f74d74f854ae1ed48bb28e
     - name: ExplosiveSlime_Frame_38
       frameIndex: 38
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1504,6 +1543,7 @@ ScriptedImporter:
       spriteId: 4caae55b8668ccf479dc911158abc51a
     - name: ExplosiveSlime_Frame_40
       frameIndex: 40
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1512,6 +1552,7 @@ ScriptedImporter:
       spriteId: a16eaefda93db964ba0f26bb3f30f62f
     - name: ExplosiveSlime_Frame_41
       frameIndex: 41
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1520,6 +1561,7 @@ ScriptedImporter:
       spriteId: 62d2c8f071dd6a64aa9bc73a0682ef1e
     - name: ExplosiveSlime_Frame_42
       frameIndex: 42
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 17
@@ -1528,6 +1570,7 @@ ScriptedImporter:
       spriteId: df94ce7200de07e458a0d12c284e87df
     - name: ExplosiveSlime_Frame_43
       frameIndex: 43
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1536,6 +1579,7 @@ ScriptedImporter:
       spriteId: 910b75b217ffb8142936813ee2645e97
     - name: ExplosiveSlime_Frame_44
       frameIndex: 44
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1544,6 +1588,7 @@ ScriptedImporter:
       spriteId: 18930b7dcbc857c40ae61e8c8fa883f5
     - name: ExplosiveSlime_Frame_45
       frameIndex: 45
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 16
@@ -1552,6 +1597,7 @@ ScriptedImporter:
       spriteId: 3fda62dbe5fb7e544ad06f8174b6f3c5
     - name: ExplosiveSlime_Frame_46
       frameIndex: 46
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1560,6 +1606,7 @@ ScriptedImporter:
       spriteId: 9b93d099aae57f440ac0dad29f27506e
     - name: ExplosiveSlime_Frame_47
       frameIndex: 47
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1568,6 +1615,7 @@ ScriptedImporter:
       spriteId: eb9ea80bfb935bb4a8d50a7a75add0e6
     - name: ExplosiveSlime_Frame_39
       frameIndex: 39
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1576,6 +1624,7 @@ ScriptedImporter:
       spriteId: 364ce083ecb7b6e4d8ee61d1c47dc549
     - name: ExplosiveSlime_Frame_48
       frameIndex: 48
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1584,6 +1633,7 @@ ScriptedImporter:
       spriteId: 37847d337edd07142a8fc3f9bd29293e
     - name: ExplosiveSlime_Frame_49
       frameIndex: 49
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1592,6 +1642,7 @@ ScriptedImporter:
       spriteId: ef4ae14963c006d4eaee42fd0025ed17
     - name: ExplosiveSlime_Frame_50
       frameIndex: 50
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1600,6 +1651,7 @@ ScriptedImporter:
       spriteId: 7d57092054f41a6408d5d7ddd7f11f68
     - name: ExplosiveSlime_Frame_51
       frameIndex: 51
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 17
@@ -1608,6 +1660,7 @@ ScriptedImporter:
       spriteId: 6ff02220d2c658f459de887b8fdfcdc4
     - name: ExplosiveSlime_Frame_52
       frameIndex: 52
+      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16

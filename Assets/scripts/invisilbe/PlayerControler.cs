@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    private Renderer playerRenderer; // Componente Renderer del personaje
+    public Renderer playerRenderer; // Componente Renderer del personaje
     private bool isInvisible = false; // Estado de invisibilidad actual
     private float invisibilityTimer = 0f; // Temporizador para contar la duración de invisibilidad
     private Color originalColor; // Color original del jugador
@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     private void Start()
     {
         // Obtener el componente Renderer del personaje
-        playerRenderer = GetComponent<Renderer>();
+     
         originalColor = playerRenderer.material.color; // Guardar el color original del material
     }
 

@@ -13,17 +13,31 @@ public class PlayerMovement : MonoBehaviour
     public float checkRadius;
     public LayerMask whatIsGround;
     private bool isGrounded;
+    private Animator animator;
+
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     private void Update()
     {
-        // Movimiento horizontal
         moveInput = Input.GetAxis("Horizontal");
+
+        // Movimiento horizontal
         rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
+
+        // Actualizar animación de correr
+        if (moveInput != 0)
+        {
+            animator.SetBool("run", true);
+        }
+        else
+        {
+            animator.SetBool("run", false);
+        }
 
         // Verificar si el jugador está en el suelo
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
@@ -31,8 +45,7 @@ public class PlayerMovement : MonoBehaviour
         // Saltar
         if (isGrounded && Input.GetKeyDown(KeyCode.Space))
         {
-            rb.velocity = Vector2.up * jumpForce;
+            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
     }
 }
-

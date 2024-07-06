@@ -1986,6 +1986,7 @@ GameObject:
   - component: {fileID: 675328016}
   - component: {fileID: 675328015}
   - component: {fileID: 675328014}
+  - component: {fileID: 675328018}
   m_Layer: 5
   m_Name: 'Canvas game over '
   m_TagString: Untagged
@@ -2076,6 +2077,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &675328018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 675328013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53490f137677177449290dd01b16745b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &768032224
 GameObject:
   m_ObjectHideFlags: 0
@@ -2461,7 +2474,7 @@ GameObject:
   - component: {fileID: 859371421}
   - component: {fileID: 859371420}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: GameManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3437,13 +3450,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1389927900}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.375625, y: 0.50676775, z: -0.5378542}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.564375, y: 2.096768, z: -0.5378542}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2017456075}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 2007405842}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1499742539
 GameObject:
@@ -4595,6 +4608,7 @@ Transform:
   m_Children:
   - {fileID: 653618467}
   - {fileID: 1768981170}
+  - {fileID: 1389927902}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2007405843
@@ -4945,7 +4959,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3937104029135859609, guid: 59bde71262e62ca4dbab4f9b12768d61, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.85
+      value: 1.64
       objectReference: {fileID: 0}
     - target: {fileID: 3937104029135859609, guid: 59bde71262e62ca4dbab4f9b12768d61, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5003,7 +5017,6 @@ SceneRoots:
   - {fileID: 859371421}
   - {fileID: 1270932895}
   - {fileID: 8024565105318509021}
-  - {fileID: 1389927902}
   - {fileID: 158672847}
   - {fileID: 768032226}
   - {fileID: 1921312764}

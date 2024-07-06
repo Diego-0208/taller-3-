@@ -21,13 +21,23 @@ public class GameManager : MonoBehaviour
         if (Instance == null)
         {
             Instance = this;
+            DontDestroyOnLoad(this.gameObject);
         }
         else
         {
             Debug.Log("Cuidado! Mas de un GameManager en escena.");
+            Destroy(this.gameObject);
         }
     }
 
+    private void Update()
+    {
+        if (hud == null)
+        {
+            hud = FindAnyObjectByType< HUD >();
+            canvasGameover = FindAnyObjectByType<GameOver>().gameObject;
+        }
+    }
     public void SumarPuntos(int puntosASumar)
     {
         PuntosTotales += puntosASumar;
@@ -40,7 +50,8 @@ public class GameManager : MonoBehaviour
 
         if (vidas == 0)
         {
-            canvasGameover.SetActive(true);   
+            canvasGameover.SetActive(true);
+            vidas = 3;
         }
 
         hud.DesactivarVida(vidas);

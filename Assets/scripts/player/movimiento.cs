@@ -15,7 +15,6 @@ public class PlayerMovement : MonoBehaviour
     private bool isGrounded;
     private Animator animator;
 
-
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -47,5 +46,17 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
+
+        // Interacción
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            Interact();
+        }
+    }
+
+    private void Interact()
+    {
+        // Implementa aquí la lógica de interacción
+        Debug.Log("Interacción realizada");
     }
 }

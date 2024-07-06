@@ -10,12 +10,17 @@ public class HUD : MonoBehaviour
 
     void Update()
     {
-        puntos.text = GameManager.Instance.PuntosTotales.ToString();
+        if(puntos != null) { 
+            puntos.text = GameManager.Instance.PuntosTotales.ToString();
+        }
     }
 
     public void ActualizarPuntos(int puntosTotales)
     {
-        puntos.text = puntosTotales.ToString();
+        if (puntos != null)
+        {
+            puntos.text = puntosTotales.ToString();
+        }
     }
 
     public void DesactivarVida(int indice)

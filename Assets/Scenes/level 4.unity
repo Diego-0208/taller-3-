@@ -304,7 +304,7 @@ GameObject:
   - component: {fileID: 108637782}
   - component: {fileID: 108637781}
   m_Layer: 0
-  m_Name: 'PLATAFORMA '
+  m_Name: PLATAFORMA 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -443,11 +443,11 @@ Transform:
   m_GameObject: {fileID: 108637780}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.19877432, y: -0.06888669, z: 0}
-  m_LocalScale: {x: 0.14928243, y: 0.24460389, z: 1}
+  m_LocalPosition: {x: 3.2041798, y: 0.43773347, z: 0}
+  m_LocalScale: {x: 3.2086349, y: 4.812774, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 290780496}
+  m_Father: {fileID: 1141817446}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &140896316
 GameObject:
@@ -765,7 +765,7 @@ GameObject:
   - component: {fileID: 290780496}
   - component: {fileID: 290780495}
   m_Layer: 0
-  m_Name: 'estrucutruas '
+  m_Name: ESCENARIO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -838,9 +838,8 @@ Transform:
   m_Children:
   - {fileID: 1945912259}
   - {fileID: 214227377}
-  - {fileID: 108637784}
-  - {fileID: 1951992683}
-  - {fileID: 1353055306}
+  - {fileID: 1141817446}
+  - {fileID: 563489365}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &300740034
@@ -919,11 +918,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a816f11eed742a45ae1d094b703d5e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puntos: {fileID: 0}
-  vidas:
-  - {fileID: 204213228}
-  - {fileID: 527497381}
-  - {fileID: 1142155893}
 --- !u!1 &410182277
 GameObject:
   m_ObjectHideFlags: 0
@@ -1123,9 +1117,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 563489364}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.5203795, y: -1.3977333, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.34784946, y: -0.091134, z: 0}
+  m_LocalScale: {x: 0.046525214, y: 0.050823886, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7149812}
@@ -1135,7 +1129,7 @@ Transform:
   - {fileID: 49503895}
   - {fileID: 1994776350}
   - {fileID: 140896317}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 290780496}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &678117095
 GameObject:
@@ -1546,6 +1540,40 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1141817445
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1141817446}
+  m_Layer: 0
+  m_Name: 'PLATAFORMA '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1141817446
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1141817445}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.34784946, y: -0.091134, z: 0}
+  m_LocalScale: {x: 0.046525214, y: 0.050823886, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 108637784}
+  - {fileID: 1951992683}
+  - {fileID: 1353055306}
+  m_Father: {fileID: 290780496}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1142155893
 GameObject:
   m_ObjectHideFlags: 0
@@ -1784,7 +1812,7 @@ GameObject:
   - component: {fileID: 1353055304}
   - component: {fileID: 1353055303}
   m_Layer: 0
-  m_Name: 'PLATAFORMA '
+  m_Name: 'PLATAFORMA 3 '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1923,11 +1951,11 @@ Transform:
   m_GameObject: {fileID: 1353055302}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.062166993, y: 0.01395624, z: 0}
-  m_LocalScale: {x: 0.14928243, y: 0.24460389, z: 1}
+  m_LocalPosition: {x: 6.1403794, y: 2.0677333, z: 0}
+  m_LocalScale: {x: 3.2086349, y: 4.812774, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 290780496}
+  m_Father: {fileID: 1141817446}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1731522667
 GameObject:
@@ -2156,7 +2184,7 @@ GameObject:
   - component: {fileID: 1951992681}
   - component: {fileID: 1951992680}
   m_Layer: 0
-  m_Name: 'PLATAFORMA '
+  m_Name: PLATAFORMA 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2295,11 +2323,11 @@ Transform:
   m_GameObject: {fileID: 1951992679}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0662426, y: -0.06888669, z: 0}
-  m_LocalScale: {x: 0.14928243, y: 0.24460389, z: 1}
+  m_LocalPosition: {x: 8.900379, y: 0.43773347, z: 0}
+  m_LocalScale: {x: 3.2086349, y: 4.812774, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 290780496}
+  m_Father: {fileID: 1141817446}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1994776349
 GameObject:
@@ -2394,4 +2422,3 @@ SceneRoots:
   - {fileID: 367765829}
   - {fileID: 849808758}
   - {fileID: 300740035}
-  - {fileID: 563489365}

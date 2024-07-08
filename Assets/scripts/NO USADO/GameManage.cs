@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
 using System;
-
+/*
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
@@ -69,3 +69,4 @@ public class GameManager : MonoBehaviour
         return true;
     }
 }
+*/

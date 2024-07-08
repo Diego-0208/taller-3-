@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*
 public class Coin : MonoBehaviour
 {
     public int valor = 1;
@@ -17,3 +17,4 @@ public class Coin : MonoBehaviour
         }
     }
 }
+*/

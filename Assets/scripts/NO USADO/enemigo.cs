@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*
 public class enemigo : MonoBehaviour
 {
     private void OnCollisionEnter2D(Collision2D other )
@@ -10,3 +10,4 @@ public class enemigo : MonoBehaviour
             GameManager.Instance.PerderVida(1);
     }
 }
+*/ 

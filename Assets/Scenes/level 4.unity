@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 7149812}
   - component: {fileID: 7149813}
   m_Layer: 0
-  m_Name: Example_5
+  m_Name: PILAR 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -149,11 +149,11 @@ Transform:
   m_GameObject: {fileID: 7149811}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.35806733, y: -0.017330945, z: 0}
-  m_LocalScale: {x: 0.13289301, y: 0.17627807, z: 1}
+  m_LocalPosition: {x: -0.21961975, y: 1.4521334, z: 0}
+  m_LocalScale: {x: 2.8563652, y: 3.4684098, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 290780496}
+  m_Father: {fileID: 563489365}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &7149813
 SpriteRenderer:
@@ -218,7 +218,7 @@ GameObject:
   - component: {fileID: 49503895}
   - component: {fileID: 49503896}
   m_Layer: 0
-  m_Name: Example_5 (4)
+  m_Name: PILAR 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -233,11 +233,11 @@ Transform:
   m_GameObject: {fileID: 49503894}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.13370416, y: -0.016782047, z: 0}
-  m_LocalScale: {x: 0.13289301, y: 0.17570385, z: 1}
+  m_LocalPosition: {x: 10.350379, y: 1.4629333, z: 0}
+  m_LocalScale: {x: 2.8563652, y: 3.4571116, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 290780496}
+  m_Father: {fileID: 563489365}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &49503896
 SpriteRenderer:
@@ -304,7 +304,7 @@ GameObject:
   - component: {fileID: 108637782}
   - component: {fileID: 108637781}
   m_Layer: 0
-  m_Name: Ruins-Tilesheet-Omniclause(solid-background)_0
+  m_Name: 'PLATAFORMA '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -460,7 +460,7 @@ GameObject:
   - component: {fileID: 140896317}
   - component: {fileID: 140896318}
   m_Layer: 0
-  m_Name: Example_5 (6)
+  m_Name: PILAR 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -475,11 +475,11 @@ Transform:
   m_GameObject: {fileID: 140896316}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.3435329, y: -0.016782047, z: 0}
-  m_LocalScale: {x: 0.13289301, y: 0.17570385, z: 1}
+  m_LocalPosition: {x: 14.86038, y: 1.4629333, z: 0}
+  m_LocalScale: {x: 2.8563652, y: 3.4571116, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 290780496}
+  m_Father: {fileID: 563489365}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &140896318
 SpriteRenderer:
@@ -636,7 +636,7 @@ GameObject:
   - component: {fileID: 214227376}
   - component: {fileID: 214227375}
   m_Layer: 0
-  m_Name: Example_0 (1)
+  m_Name: TECHO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -841,13 +841,6 @@ Transform:
   - {fileID: 108637784}
   - {fileID: 1951992683}
   - {fileID: 1353055306}
-  - {fileID: 7149812}
-  - {fileID: 410182278}
-  - {fileID: 1085784250}
-  - {fileID: 1731522668}
-  - {fileID: 49503895}
-  - {fileID: 1994776350}
-  - {fileID: 140896317}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &300740034
@@ -942,7 +935,7 @@ GameObject:
   - component: {fileID: 410182278}
   - component: {fileID: 410182279}
   m_Layer: 0
-  m_Name: Example_5 (1)
+  m_Name: PILAR 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -957,11 +950,11 @@ Transform:
   m_GameObject: {fileID: 410182277}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.26780844, y: -0.016782047, z: 0}
-  m_LocalScale: {x: 0.13289301, y: 0.17570385, z: 1}
+  m_LocalPosition: {x: 1.7203798, y: 1.4629333, z: 0}
+  m_LocalScale: {x: 2.8563652, y: 3.4571116, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 290780496}
+  m_Father: {fileID: 563489365}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &410182279
 SpriteRenderer:
@@ -1106,6 +1099,44 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 527497381}
   m_CullTransparentMesh: 1
+--- !u!1 &563489364
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 563489365}
+  m_Layer: 0
+  m_Name: PILARES
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &563489365
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 563489364}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.5203795, y: -1.3977333, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7149812}
+  - {fileID: 410182278}
+  - {fileID: 1085784250}
+  - {fileID: 1731522668}
+  - {fileID: 49503895}
+  - {fileID: 1994776350}
+  - {fileID: 140896317}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &678117095
 GameObject:
   m_ObjectHideFlags: 0
@@ -1237,12 +1268,12 @@ MonoBehaviour:
   m_RequiresColorTexture: 0
   m_Version: 2
   m_TaaSettings:
-    m_Quality: 3
-    m_FrameInfluence: 0.1
-    m_JitterScale: 1
-    m_MipBias: 0
-    m_VarianceClampScale: 0.9
-    m_ContrastAdaptiveSharpening: 0
+    quality: 3
+    frameInfluence: 0.1
+    jitterScale: 1
+    mipBias: 0
+    varianceClampScale: 0.9
+    contrastAdaptiveSharpening: 0
 --- !u!1 &849808755
 GameObject:
   m_ObjectHideFlags: 0
@@ -1442,7 +1473,7 @@ GameObject:
   - component: {fileID: 1085784250}
   - component: {fileID: 1085784251}
   m_Layer: 0
-  m_Name: Example_5 (2)
+  m_Name: PILAR 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1457,11 +1488,11 @@ Transform:
   m_GameObject: {fileID: 1085784249}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.13242006, y: -0.019521454, z: 0}
-  m_LocalScale: {x: 0.13289301, y: 0.17854005, z: 1}
+  m_LocalPosition: {x: 4.6303797, y: 1.4090333, z: 0}
+  m_LocalScale: {x: 2.8563652, y: 3.512916, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 290780496}
+  m_Father: {fileID: 563489365}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1085784251
 SpriteRenderer:
@@ -1665,8 +1696,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: New Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 97ee0c4225a6d7a44a4d11643122b62b, type: 2}
-  m_sharedMaterial: {fileID: 1524273408378267192, guid: 97ee0c4225a6d7a44a4d11643122b62b, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1753,7 +1784,7 @@ GameObject:
   - component: {fileID: 1353055304}
   - component: {fileID: 1353055303}
   m_Layer: 0
-  m_Name: Ruins-Tilesheet-Omniclause(solid-background)_0 (1)
+  m_Name: 'PLATAFORMA '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1909,7 +1940,7 @@ GameObject:
   - component: {fileID: 1731522668}
   - component: {fileID: 1731522669}
   m_Layer: 0
-  m_Name: Example_5 (3)
+  m_Name: PILAR 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1924,11 +1955,11 @@ Transform:
   m_GameObject: {fileID: 1731522667}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0040104734, y: -0.016233148, z: 0}
-  m_LocalScale: {x: 0.13289301, y: 0.17512968, z: 1}
+  m_LocalPosition: {x: 7.3903794, y: 1.4737334, z: 0}
+  m_LocalScale: {x: 2.8563652, y: 3.4458144, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 290780496}
+  m_Father: {fileID: 563489365}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1731522669
 SpriteRenderer:
@@ -1994,7 +2025,7 @@ GameObject:
   - component: {fileID: 1945912258}
   - component: {fileID: 1945912257}
   m_Layer: 0
-  m_Name: Example_0
+  m_Name: SUELO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2125,7 +2156,7 @@ GameObject:
   - component: {fileID: 1951992681}
   - component: {fileID: 1951992680}
   m_Layer: 0
-  m_Name: Ruins-Tilesheet-Omniclause(solid-background)_0 (2)
+  m_Name: 'PLATAFORMA '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2281,7 +2312,7 @@ GameObject:
   - component: {fileID: 1994776350}
   - component: {fileID: 1994776351}
   m_Layer: 0
-  m_Name: Example_5 (5)
+  m_Name: PILAR 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2296,11 +2327,11 @@ Transform:
   m_GameObject: {fileID: 1994776349}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.2448994, y: -0.016233148, z: 0}
-  m_LocalScale: {x: 0.13289301, y: 0.17512968, z: 1}
+  m_LocalPosition: {x: 12.740379, y: 1.4737334, z: 0}
+  m_LocalScale: {x: 2.8563652, y: 3.4458144, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 290780496}
+  m_Father: {fileID: 563489365}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1994776351
 SpriteRenderer:
@@ -2363,3 +2394,4 @@ SceneRoots:
   - {fileID: 367765829}
   - {fileID: 849808758}
   - {fileID: 300740035}
+  - {fileID: 563489365}

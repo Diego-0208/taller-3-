@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*
 public class DamageZone : MonoBehaviour
 {
     private GameManager gameManager;
@@ -11,7 +11,7 @@ public class DamageZone : MonoBehaviour
         gameManager = FindObjectOfType<GameManager>();
         if (gameManager == null)
         {
-            Debug.LogError("GameManager not found!");
+            Debug.Log("GameManager not found!");
         }
     }
 
@@ -23,3 +23,4 @@ public class DamageZone : MonoBehaviour
         }
     }
 }
+*/

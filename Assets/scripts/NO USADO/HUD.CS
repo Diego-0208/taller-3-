@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-
+/*
 public class HUD : MonoBehaviour
 {
     public TextMeshProUGUI puntos;
@@ -33,3 +33,4 @@ public class HUD : MonoBehaviour
         vidas[indice].SetActive(true);
     }
 }
+*/

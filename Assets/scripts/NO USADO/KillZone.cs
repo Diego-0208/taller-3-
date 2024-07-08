@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*
 public class KillZone : MonoBehaviour
 {
     [SerializeField] float delay = 0f;
@@ -12,7 +12,7 @@ public class KillZone : MonoBehaviour
         gameManager = FindObjectOfType<GameManager>();
         if (gameManager == null)
         {
-            Debug.LogError("GameManager not found!");
+            Debug.Log("GameManager not found!");
         }
     }
 
@@ -41,3 +41,4 @@ public class KillZone : MonoBehaviour
         }
     }
 }
+*/

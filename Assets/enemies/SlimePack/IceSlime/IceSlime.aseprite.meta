@@ -1052,7 +1052,6 @@ ScriptedImporter:
     cells:
     - name: IceSlime_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1061,7 +1060,6 @@ ScriptedImporter:
       spriteId: 9f5cebc4c02b82f4391eb38e96bffc37
     - name: IceSlime_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1070,7 +1068,6 @@ ScriptedImporter:
       spriteId: e0de3935cd03e6443b118f6f9aaa75eb
     - name: IceSlime_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1079,7 +1076,6 @@ ScriptedImporter:
       spriteId: 18c901893285feb4b9726256d52b5607
     - name: IceSlime_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1088,7 +1084,6 @@ ScriptedImporter:
       spriteId: 8021127d9d8d22243bed6636926ecc04
     - name: IceSlime_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 16
@@ -1097,7 +1092,6 @@ ScriptedImporter:
       spriteId: e75d2ab7cb27d7542a42016a9efdaa2d
     - name: IceSlime_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 16
@@ -1106,7 +1100,6 @@ ScriptedImporter:
       spriteId: a411ffbfe57a0fd49948278f94190919
     - name: IceSlime_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 28
         y: 16
@@ -1115,7 +1108,6 @@ ScriptedImporter:
       spriteId: 372feffc07205ae4087607cb2853358f
     - name: IceSlime_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 28
         y: 16
@@ -1124,7 +1116,6 @@ ScriptedImporter:
       spriteId: fef3b2ae6ebc06948b0694e58643e6d0
     - name: IceSlime_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1133,7 +1124,6 @@ ScriptedImporter:
       spriteId: bf0188b9e9ea4aa4baf5d76cfc50f85a
     - name: IceSlime_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 22
         y: 16
@@ -1142,7 +1132,6 @@ ScriptedImporter:
       spriteId: 69fe8663cbfee384d89e47f4505edeee
     - name: IceSlime_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 20
         y: 16
@@ -1151,7 +1140,6 @@ ScriptedImporter:
       spriteId: 3c0db7cb46d081f4681c6084844cafc6
     - name: IceSlime_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 18
         y: 16
@@ -1160,7 +1148,6 @@ ScriptedImporter:
       spriteId: f69d0f93e71fb0744b737ab84c5b6477
     - name: IceSlime_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1169,7 +1156,6 @@ ScriptedImporter:
       spriteId: 884926aff1aac4a4d822ab7864435296
     - name: IceSlime_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1178,7 +1164,6 @@ ScriptedImporter:
       spriteId: 5e3c452a8939b1a4cbc2d7c67ce8794c
     - name: IceSlime_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 18
@@ -1187,7 +1172,6 @@ ScriptedImporter:
       spriteId: 0c08d92545c7cc447a865410eaaadd68
     - name: IceSlime_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: 22
         y: 16
@@ -1196,7 +1180,6 @@ ScriptedImporter:
       spriteId: 1aed2a2ad8c702d478ab63bb4b58b63e
     - name: IceSlime_Frame_16
       frameIndex: 16
-      additiveSortOrder: 0
       cellRect:
         x: 20
         y: 16
@@ -1205,7 +1188,6 @@ ScriptedImporter:
       spriteId: f090c51806a2cf449a3b54591ef1119d
     - name: IceSlime_Frame_17
       frameIndex: 17
-      additiveSortOrder: 0
       cellRect:
         x: 17
         y: 16
@@ -1214,7 +1196,6 @@ ScriptedImporter:
       spriteId: dd537fe4e20846d469db47c9a95251e3
     - name: IceSlime_Frame_18
       frameIndex: 18
-      additiveSortOrder: 0
       cellRect:
         x: 22
         y: 16
@@ -1223,7 +1204,6 @@ ScriptedImporter:
       spriteId: 5b94b43a599d28b43b9361ef58cce5c4
     - name: IceSlime_Frame_19
       frameIndex: 19
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1232,7 +1212,6 @@ ScriptedImporter:
       spriteId: 553b649b627c2794c8f5e43f1b7d83b2
     - name: IceSlime_Frame_20
       frameIndex: 20
-      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 16
@@ -1241,7 +1220,6 @@ ScriptedImporter:
       spriteId: a3d1d1a6a008582499df0d2ca1c3d3c5
     - name: IceSlime_Frame_21
       frameIndex: 21
-      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 19
@@ -1250,7 +1228,6 @@ ScriptedImporter:
       spriteId: 71d4eac0ab25bcd47b31e983bb51df11
     - name: IceSlime_Frame_22
       frameIndex: 22
-      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 27
@@ -1259,7 +1236,6 @@ ScriptedImporter:
       spriteId: 154a7895274f2844e9c29f8bfa9314a5
     - name: IceSlime_Frame_23
       frameIndex: 23
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 36
@@ -1268,7 +1244,6 @@ ScriptedImporter:
       spriteId: 2dc5e51f56f1b2a43979ca16da659a38
     - name: IceSlime_Frame_24
       frameIndex: 24
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 41
@@ -1277,7 +1252,6 @@ ScriptedImporter:
       spriteId: a73f2fffe45ddad4997406b862f5218e
     - name: IceSlime_Frame_25
       frameIndex: 25
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 38
@@ -1286,7 +1260,6 @@ ScriptedImporter:
       spriteId: 2ebac0ade3dbcd94aa97e85945aac97c
     - name: IceSlime_Frame_26
       frameIndex: 26
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 34
@@ -1295,7 +1268,6 @@ ScriptedImporter:
       spriteId: 2801f053ed21a5f4aaee75918ee7ab5c
     - name: IceSlime_Frame_27
       frameIndex: 27
-      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 20
@@ -1304,7 +1276,6 @@ ScriptedImporter:
       spriteId: 955ceb4ce5b2e6d4ab46ebeb9edf3100
     - name: IceSlime_Frame_28
       frameIndex: 28
-      additiveSortOrder: 0
       cellRect:
         x: 19
         y: 12
@@ -1313,7 +1284,6 @@ ScriptedImporter:
       spriteId: a21fb473ce7e7314a8a284d60659135d
     - name: IceSlime_Frame_29
       frameIndex: 29
-      additiveSortOrder: 0
       cellRect:
         x: 19
         y: 12
@@ -1322,7 +1292,6 @@ ScriptedImporter:
       spriteId: 2f5225333e7ca5d49abe79e7cec09fce
     - name: IceSlime_Frame_30
       frameIndex: 30
-      additiveSortOrder: 0
       cellRect:
         x: 20
         y: 12
@@ -1331,7 +1300,6 @@ ScriptedImporter:
       spriteId: 026e8187c515b4143bf21be867e7154c
     - name: IceSlime_Frame_31
       frameIndex: 31
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1340,7 +1308,6 @@ ScriptedImporter:
       spriteId: 1ee6e1ca830298e44a09ef50d3a69c46
     - name: IceSlime_Frame_32
       frameIndex: 32
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1349,7 +1316,6 @@ ScriptedImporter:
       spriteId: f955f42665d3d63428fcf05076a6d167
     - name: IceSlime_Frame_33
       frameIndex: 33
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1358,7 +1324,6 @@ ScriptedImporter:
       spriteId: fbcc3c55dd95bef4ea8b63df21cbabf9
     - name: IceSlime_Frame_34
       frameIndex: 34
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 17
@@ -1367,7 +1332,6 @@ ScriptedImporter:
       spriteId: 1692c4297985da14f8c951369176f6f6
     - name: IceSlime_Frame_35
       frameIndex: 35
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1376,7 +1340,6 @@ ScriptedImporter:
       spriteId: dbd57f64e83cd5740a14a11e00813321
     - name: IceSlime_Frame_36
       frameIndex: 36
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1385,7 +1348,6 @@ ScriptedImporter:
       spriteId: ad405a0700c16dc49bf08252bd83e0f6
     - name: IceSlime_Frame_37
       frameIndex: 37
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1394,7 +1356,6 @@ ScriptedImporter:
       spriteId: a4e51831fa7e60243a4447db17c519a1
     - name: IceSlime_Frame_38
       frameIndex: 38
-      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 16
@@ -1403,7 +1364,6 @@ ScriptedImporter:
       spriteId: 57129b99cb656a749a2fa3ea57680a32
     - name: IceSlime_Frame_39
       frameIndex: 39
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1412,7 +1372,6 @@ ScriptedImporter:
       spriteId: 9be9bd2d74e61d8418ae1d17cf7ccc8e
     - name: IceSlime_Frame_40
       frameIndex: 40
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1421,7 +1380,6 @@ ScriptedImporter:
       spriteId: 98e3307cd18a57742bbe7c3064868775
     - name: IceSlime_Frame_41
       frameIndex: 41
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1430,7 +1388,6 @@ ScriptedImporter:
       spriteId: 103f67340875ab24da6cbcaa2eefc158
     - name: IceSlime_Frame_42
       frameIndex: 42
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16
@@ -1439,7 +1396,6 @@ ScriptedImporter:
       spriteId: 6e1fa168469831e4da8d7a9944ca0e5a
     - name: IceSlime_Frame_43
       frameIndex: 43
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 16
@@ -1448,7 +1404,6 @@ ScriptedImporter:
       spriteId: 3ba50742509ca6440bdcf02ff6368fe7
     - name: IceSlime_Frame_44
       frameIndex: 44
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 17
@@ -1457,7 +1412,6 @@ ScriptedImporter:
       spriteId: c1e2df713cc51f748bf712d933c58d12
     - name: IceSlime_Frame_45
       frameIndex: 45
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 16

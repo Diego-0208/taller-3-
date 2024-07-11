@@ -5,7 +5,7 @@ using TMPro;
 public class NPCInteraction : MonoBehaviour
 {
     public GameObject dialogueBox;
-    public TextMeshProUGUI dialogueText;
+    public TextMeshPro dialogueText;
     public string[] dialogueLines;
     private int currentLine;
 

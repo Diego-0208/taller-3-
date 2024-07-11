@@ -8,6 +8,7 @@ public class Cronometro : MonoBehaviour
     public float tiempoInicial = 60f; // Tiempo inicial en segundos
     private float tiempoRestante;
     public TextMeshProUGUI textoCronometro;
+    public GameObject enemigo; // Referencia al objeto enemigo
 
     void Start()
     {
@@ -25,7 +26,12 @@ public class Cronometro : MonoBehaviour
         {
             // El tiempo ha terminado
             tiempoRestante = 0;
-            // Aquí puedes añadir lógica para lo que ocurre cuando el tiempo se acaba
+            // Desactivar al enemigo
+            if (enemigo != null)
+            {
+                enemigo.SetActive(false); // Desactivar el enemigo
+            }
+            // Aquí puedes agregar más lógica para lo que ocurre cuando el tiempo se acaba
         }
     }
 

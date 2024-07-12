@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.Events;
 
 public class Cronometro : MonoBehaviour
 {
@@ -9,7 +10,7 @@ public class Cronometro : MonoBehaviour
     private float tiempoRestante;
     public TextMeshProUGUI textoCronometro;
     public GameObject enemigo; // Referencia al objeto enemigo
-
+    public UnityEvent cronometroend;
     void Start()
     {
         tiempoRestante = tiempoInicial;
@@ -26,12 +27,8 @@ public class Cronometro : MonoBehaviour
         {
             // El tiempo ha terminado
             tiempoRestante = 0;
-            // Desactivar al enemigo
-            if (enemigo != null)
-            {
-                enemigo.SetActive(false); // Desactivar el enemigo
-            }
-            // Aquí puedes agregar más lógica para lo que ocurre cuando el tiempo se acaba
+            cronometroend.Invoke();
+            
         }
     }
 

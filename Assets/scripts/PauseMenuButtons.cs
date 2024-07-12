@@ -5,36 +5,41 @@ public class PauseMenuButtons : MonoBehaviour
 {
     public GameObject pauseMenu;
 
-
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            pauseMenu.SetActive(!pauseMenu.activeInHierarchy);
+            TogglePauseMenu();
+        }
+    }
 
-            if (pauseMenu.activeInHierarchy)
-            {
-                PauseGame();
-            }
-            else
-            {
-                ResumeGame();
-            }
+    void TogglePauseMenu()
+    {
+        bool isPaused = !pauseMenu.activeInHierarchy;
+        pauseMenu.SetActive(isPaused);
+
+        if (isPaused)
+        {
+            PauseGame();
+        }
+        else
+        {
+            ResumeGame();
         }
     }
 
     public void PauseGame()
     {
-        // Reanudar el juego
+        // Pausar el juego
         Time.timeScale = 0f;
-        gameObject.transform.parent.gameObject.SetActive(true); // Desactivar el menú de pausa
+        pauseMenu.SetActive(true); // Activar el menú de pausa
     }
 
     public void ResumeGame()
     {
         // Reanudar el juego
         Time.timeScale = 1f;
-        gameObject.transform.parent.gameObject.SetActive(false); // Desactivar el menú de pausa
+        pauseMenu.SetActive(false); // Desactivar el menú de pausa
     }
 
     public void RestartGame()
@@ -49,6 +54,4 @@ public class PauseMenuButtons : MonoBehaviour
         // Salir del juego (funciona solo en builds, no en el editor de Unity)
         Application.Quit();
     }
-
-   
 }

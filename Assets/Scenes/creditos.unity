@@ -263,7 +263,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -318.513, y: -139.84955}
+  m_AnchoredPosition: {x: -241, y: -139.84955}
   m_SizeDelta: {x: 410.384, y: 172.8991}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &351022012
@@ -481,7 +481,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -311, y: 82.88962}
+  m_AnchoredPosition: {x: -248, y: 82.88962}
   m_SizeDelta: {x: 425.4163, y: 122.2208}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &842096345
@@ -615,7 +615,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 201, y: -115}
+  m_AnchoredPosition: {x: 235, y: -115}
   m_SizeDelta: {x: 433.0735, y: 123.22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1079428276
@@ -884,8 +884,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 199, y: 82.889}
-  m_SizeDelta: {x: 427.56, y: 122.22}
+  m_AnchoredPosition: {x: 199, y: 61.3046}
+  m_SizeDelta: {x: 427.56, y: 165.3889}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1560411680
 MonoBehaviour:
@@ -912,6 +912,9 @@ MonoBehaviour:
     chat gpt
 
     alejandro galotti
+
+    Alejandro
+    Urrutia
 
 '
   m_isRightToLeft: 0
@@ -990,6 +993,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1560411678}
   m_CullTransparentMesh: 1
+--- !u!1 &1632937785
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1632937787}
+  - component: {fileID: 1632937786}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1632937786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1632937785}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ade14473b53ca4b975a232ee80d641, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nombreDeEscena: inicio
+--- !u!4 &1632937787
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1632937785}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.7089759, y: 1.451902, z: -0.13369693}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1673572669
 GameObject:
   m_ObjectHideFlags: 0
@@ -1121,12 +1169,12 @@ MonoBehaviour:
   m_RequiresColorTexture: 0
   m_Version: 2
   m_TaaSettings:
-    quality: 3
-    frameInfluence: 0.1
-    jitterScale: 1
-    mipBias: 0
-    varianceClampScale: 0.9
-    contrastAdaptiveSharpening: 0
+    m_Quality: 3
+    m_FrameInfluence: 0.1
+    m_JitterScale: 1
+    m_MipBias: 0
+    m_VarianceClampScale: 0.9
+    m_ContrastAdaptiveSharpening: 0
 --- !u!1 &2030864606
 GameObject:
   m_ObjectHideFlags: 0
@@ -1203,3 +1251,4 @@ SceneRoots:
   - {fileID: 837823962}
   - {fileID: 322935841}
   - {fileID: 2030864609}
+  - {fileID: 1632937787}

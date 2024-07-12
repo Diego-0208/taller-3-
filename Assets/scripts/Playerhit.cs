@@ -7,17 +7,21 @@ using UnityEngine.SceneManagement;
 public class Playerhit : MonoBehaviour
 {   public bool isbala;
     public string reiniciarelnivel;
-  
+    private PlayerController playerController;
+    private void Start()
+    {
+        playerController =FindAnyObjectByType<PlayerController>();
+    }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(!isbala && collision.gameObject.CompareTag("Player"))
+        if(!isbala && collision.gameObject.CompareTag("Player")&&!playerController.isInvisible)
         {
             SceneManager.LoadScene(reiniciarelnivel);
         }
     }
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (isbala && other.CompareTag("Player")) 
+        if (isbala && other.CompareTag("Player") && !playerController.isInvisible)  
         {
             SceneManager.LoadScene(reiniciarelnivel);
 

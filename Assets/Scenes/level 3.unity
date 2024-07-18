@@ -349,7 +349,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 88ffc4b7126974a45981b89f2c00e47b, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.578
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -3765,9 +3765,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 109821119747420264, guid: 5e09f041cdaba5a42ae924aa00426b0d, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 150153952595194692, guid: 5e09f041cdaba5a42ae924aa00426b0d, type: 3}
       propertyPath: score
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 277306659178793103, guid: 5e09f041cdaba5a42ae924aa00426b0d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5432648809752372752, guid: 5e09f041cdaba5a42ae924aa00426b0d, type: 3}
       propertyPath: m_Pivot.x
@@ -3852,6 +3860,10 @@ PrefabInstance:
     - target: {fileID: 5785770122217127937, guid: 5e09f041cdaba5a42ae924aa00426b0d, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6731371435736356871, guid: 5e09f041cdaba5a42ae924aa00426b0d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

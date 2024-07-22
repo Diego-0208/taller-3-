@@ -969,7 +969,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: 21300000, guid: 05d8b6fcebb686e428cba48d62b01af5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2910,8 +2910,8 @@ MonoBehaviour:
   dialogueLines:
   - 'hola '
   - 'veo que estas perdido en esta mazmorra '
-  - 'los objetos que estan en el suelo te serviran para sobrevivir '
-  - 'la pocion te hace invisible y los enemigos no te detectan '
+  - 'el objeto que esta en el suelo te servira para sobrevivir en esta mazmorra '
+  - "la pocion te hace invisible y los enemigos no te detectan ni  te da\xF1aran "
   - 
 --- !u!1 &1939760892
 GameObject:

@@ -36,6 +36,15 @@ public class Cronometro : MonoBehaviour
     {
         int minutos = Mathf.FloorToInt(tiempoRestante / 60);
         int segundos = Mathf.FloorToInt(tiempoRestante % 60);
-        textoCronometro.text = string.Format("{0:00}:{1:00}", minutos, segundos);
+
+        if (tiempoRestante <= 0)
+        {
+            textoCronometro.text = ""; // Si el tiempo restante es 0 o menos, oculta el texto
+        }
+        else
+        {
+            textoCronometro.text = string.Format("{0:00}:{1:00}", minutos, segundos);
+        }
     }
+
 }

@@ -14,6 +14,7 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask whatIsGround;
     private bool isGrounded;
     private Animator animator;
+    private bool facingRight = true; // Variable para controlar la dirección del sprite
 
     private void Start()
     {
@@ -28,8 +29,18 @@ public class PlayerMovement : MonoBehaviour
         // Movimiento horizontal
         rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
 
+        // Voltear el sprite según la dirección
+        if (moveInput > 0 && !facingRight)
+        {
+            Flip();
+        }
+        else if (moveInput < 0 && facingRight)
+        {
+            Flip();
+        }
+
         // Actualizar animación de correr
-        if (moveInput != 0)
+        if (Mathf.Abs(moveInput) > 0)
         {
             animator.SetBool("run", true);
         }
@@ -52,6 +63,15 @@ public class PlayerMovement : MonoBehaviour
         {
             Interact();
         }
+    }
+
+    private void Flip()
+    {
+        // Voltear el sprite
+        facingRight = !facingRight;
+        Vector3 theScale = transform.localScale;
+        theScale.x *= -1;
+        transform.localScale = theScale;
     }
 
     private void Interact()
